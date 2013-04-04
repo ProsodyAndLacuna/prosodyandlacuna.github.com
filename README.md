@@ -2,4 +2,18 @@ _Prosody & [...]_ is an exploration in translation presented in a coalescence of
 
 The computer code written to create the mathematical translation and digital animation is available here with an open-source license in the hope that artists and programmers will adapt it to either expand on the project or create new works.
 
-Source code will be available shortly!
+## Source Code
+
+### dejong
+
+[https://github.com/ProsodyAndLacuna/dejong](https://github.com/ProsodyAndLacuna/dejong)
+
+### build-scripts
+
+[https://github.com/ProsodyAndLacuna/build-scripts](https://github.com/ProsodyAndLacuna/build-scripts)
+
+### libdejong
+
+A Ruby Gem for generating a DeJong attractor from precomputed data.
+
+_Soon!_
