@@ -22,4 +22,4 @@ The computer code written to create the mathematical translation and digital ani
 
 A Ruby Gem for generating a DeJong attractor from precomputed data.
 
-_Soon!_
+[https://github.com/ProsodyAndLacuna/libdejong](https://github.com/ProsodyAndLacuna/libdejong)
